@@ -1,5 +1,5 @@
 {
-  "name": "friend-connect",
+  "name": "roseconnect",
   "version": "0.1.7",
   "description": "",
   "main": "./dist/index.js",
@@ -17,12 +17,12 @@
     "friend-connect": "^0.1.5",
     "websocket": "^1.0.34"
   },
-  "repository": "https://github.com/minerj101/FriendConnect",
+  "repository": "https://github.com/peppahalo/RoseConnect",
   "keywords": [
     "bedrock",
     "mcpe",
     "minecraft",
-    "friend-connect"
+    "roseconnect"
   ],
   "devDependencies": {
     "@types/node": "^18.0.0",
